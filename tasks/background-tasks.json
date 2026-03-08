@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-03-09T00:10:00Z",
+  "status": "后台任务运行中",
+  "tasks": [
+    {
+      "name": "个人网站搭建",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "name": "视频工具完善",
+      "status": "pending", 
+      "priority": "high"
+    },
+    {
+      "name": "生成10个视频脚本",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ]
+}
